@@ -1,6 +1,7 @@
 <?php
 
 // base class with member properties and methods
+// trolololo
 class Vegetable {
 
    var $edible;
